@@ -7,11 +7,11 @@ console.log(arr1);
 
 //second and third task
 var arr2 = [44, 12, 38, 96, 55, 11, 82, 16, 49];
-
 if (arr2.length <= 5) {
   console.log(arr2);
 } else {
-  arr2.splice(5);
+  arr2.splice(5)
+
   arr2.sort(); //third task
   console.log(arr2);
 }
