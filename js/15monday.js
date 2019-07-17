@@ -139,10 +139,10 @@ function wordEncryption(str) {
 
 
 console.log(wordEncryption("Hello my dear friend"));
-// console.log(passwordCheck("4Fwert"));
-// console.log(deleteArr(['1', '2', '6', '90', '78'], ['2', '23']));
-// console.log(statistic("Hello, people! My name is Steve. It is really nice to be here"));
-// console.log(equation(4, 0, 0));
-// console.log(reversrStr("it's wonderfull day"));
-// console.log(sortWords("Helo my dear friend!"));
-// console.log(changeCase("HoW Are You"));
+console.log(passwordCheck("4Fwert"));
+console.log(deleteArr(['1', '2', '6', '90', '78'], ['2', '23']));
+console.log(statistic("Hello, people! My name is Steve. It is really nice to be here"));
+console.log(equation(4, 0, 0));
+console.log(reversrStr("it's wonderfull day"));
+console.log(sortWords("Helo my dear friend!"));
+console.log(changeCase("HoW Are You"));
